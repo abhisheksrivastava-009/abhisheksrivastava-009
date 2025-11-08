@@ -1,5 +1,5 @@
-![](https://www.linkedin.com/in/abhishek-srivastava-a2a111288/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxotIxCEiQKmABSMBDaxOTg%3D%3D)
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/abhishek/" target="_blank"> Abhishek Srivastava</a>
+![](https://github.com/abhishek/abhishek/blob/main/header.gif)
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/abhishek-srivastava-a2a111288/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxotIxCEiQKmABSMBDaxOTg%3D%3D" target="_blank"> Abhishek Srivastava</a>
    <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
 
@@ -52,11 +52,11 @@
 <div align="center">
 
 
-<a  href="https://www.linkedin.com/in/abhishek/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/abhishek" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a  href="https://t.me/abhishek"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a  href="https://www.linkedin.com/in/abhishek-srivastava-a2a111288/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxotIxCEiQKmABSMBDaxOTg%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a  href="https://t.me/abhisheksri_095"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-<a  href="https://www.instagram.com/abhishek"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a  href="https://www.instagram.com/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    </a>
 
    
@@ -71,15 +71,15 @@
 <table>
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=abhishek&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Abhishek Srivastava" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Abhishek Srivastava" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=abhisheksrivastava-009&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Abhishek Srivastava" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksrivastava-009&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Abhishek Srivastava" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek&theme=dark" alt="Abhishek Srivastava" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksrivastava-009&theme=dark" alt="Abhishek Srivastava" /></p>
   </div>
    
    
 
-[![GitHub followers](https://img.shields.io/github/followers/abhishek.svg?style=social&label=Follow)](https://github.com/abhishek?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/abhisheksrivastava-009.svg?style=social&label=Follow)](https://github.com/abhisheksrivastava-009?tab=followers)

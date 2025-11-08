@@ -10,7 +10,7 @@
 
 🚀 Focused on learning new technologies and applying that knowledge through hands-on projects. Check out the repositories to see current work in action! <a href="https://github.com/abhisheksrivastava-009?tab=repositories">project section.</a>
 
-![](https://github.com/abhishek/abhishek/blob/main/snake.svg)
+![](https://github.com/abhisheksrivastava-009/abhisheksrivastava-009/blob/main/snake.svg)
 
 <!-- <h3 align="center"> CSE Student</h3> -->
 
@@ -78,7 +78,7 @@
 <table>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhisheksrivastava-009&show_icons=true&theme=react" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhisheksrivastava-009&show_icons=true&theme=react" bg_color="0,000000,130F40" />
     </td>
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksrivastava-009&layout=compact&theme=react" />
